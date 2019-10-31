@@ -4,4 +4,4 @@ Run `npm watch run` to start the node server. Make sure to update the config set
 
 ## Demo
 
-https://simple-todo-app-js.herokuapp.com/
+http://simple-todo-app.stanleyeric.com/
